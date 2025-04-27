@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href = "/css/style.css">   
+    <title>Document</title>
+</head>
+<body>
+
+    <div id="upper">
+                <p class="logo">ADITYA</p>
+                    <a class="links" href="https://github.com/Adityax1124">GitHub</a>
+                    <a class="links" href="https://www.linkedin.com/in/aditya-singh-27a56435b/">LinkedIn</a>
+                    <a class="links" href="https://www.instagram.com/_adityax11_/">Instagram</a>
+                    <a class="links" href="#">Projects</a>
+                <button class="b1">SIGN IN</button>
+    </div>
+
+        <div class="container">
+        <main>
+            <div class="content">
+            <div class="tag-box">
+                <div class="tag">
+                    INTRODUCING &wedbar;</div>
+
+                </div>
+                
+                <h1>EMAIL TO <br> CONNECT</h1>
+
+                <p class="description">
+                    Let's connect! Email me to collaborate or just say hi. Got an idea? I'm always open to collabs — reach out via email!
+                </p>
+                <br>
+                <div class="buttons">
+                    <a href="#" class="button1">EMAIL &gt;</a>
+                    <a href="#" class="button2">SKILLS &gt;</a>
+                </div>
+            </div>
+        </main>
+        </div>
+        
+
+
+       
+    </div>
+    <spline-viewer class="robot" url="https://prod.spline.design/e4Xl-fBy5JbboDbw/scene.splinecode"></spline-viewer>
+    <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.87/build/spline-viewer.js"></script>
+
+</body>
+</html>
